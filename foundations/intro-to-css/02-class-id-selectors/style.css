@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.pink {
+    background-color: #FFA7A7;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.large {
+    font-size: 24px;
+}
+
+#second {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+#fourth {
+    background-color: #80FF80;
+    font-size: 24px;
+    font-weight: bold;
+}
